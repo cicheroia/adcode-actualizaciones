@@ -1,0 +1,11 @@
+{
+ "version": "3.0.0",
+ "url": "https://github.com/cicheroia/adcode-actualizaciones/releases/download/v3.0.0/sistema-adcode-3.0.0.bin",
+ "sha256": "4d7cdcf59393de746cae24721b2e86b1b2d40962635704e36debb2d0db5514a0",
+ "iv": "l7tmg5Hb7lZDpLEu",
+ "tamano": 7850649,
+ "notas": "- El sistema se actualiza solo: los arreglos llegan sin que tengas que hacer nada, y cuando haya novedades te avisa en la campanita.\n- Nuevo módulo Referencia: el reel en el que se basa un video queda a mano en el proyecto, y puedes sumar otro pegando su link o eligiéndolo de Referencias.\n- El guion se corrige ahí mismo, con el mismo diseño con que se lee.\n- Clic derecho en un proyecto o en una marca para cambiar su miniatura, duplicarla o renombrarla.\n- Compartir con el equipo elige la carpeta compartida la primera vez que lo usas: Google Drive, Dropbox, OneDrive o la que quieras.\n- Compartir copia el link de verdad, y lo que compartes queda en la campanita para volver a él.",
+ "fecha": "2026-09-25T19:54:20+00:00",
+ "formato": 1,
+ "firma": "V9eKZtIB3VEBNQQAhJA8lUbEh4M0EHEd+LwR/1nMjPasHRTTHOUBkfWa+WcTTHVmd5wfrvIqCwA1t4PQAv0NBQ=="
+}
