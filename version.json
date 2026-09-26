@@ -1,11 +1,11 @@
 {
- "version": "3.2.0",
- "url": "https://github.com/cicheroia/adcode-actualizaciones/releases/download/v3.2.0/sistema-adcode-3.2.0.bin",
- "sha256": "f5671ea824b86d1ea2aa7752257c6b3ad81a645c9e58b40498a0ca3b7e84a8f4",
- "iv": "ypcfXnVbNe9a41s3",
- "tamano": 8867506,
- "notas": "- Nuevo módulo Traducir: pasa un video del proyecto a otros idiomas con HeyGen, con la voz de quien habla y la boca rehecha. Se suma desde el \"+\" y muestra el costo antes de traducir.\n- Los videos horizontales se ven horizontales en todas las tarjetas, en Avatar y en Traducir.\n- En Traducir, el nombre del video se cambia con un clic.",
- "fecha": "2026-09-26T18:06:41+00:00",
+ "version": "3.3.0",
+ "url": "https://github.com/cicheroia/adcode-actualizaciones/releases/download/v3.3.0/sistema-adcode-3.3.0.bin",
+ "sha256": "c04a9ce7a0fc85459d018d2c84c8e3a6d4e6272d0f140ce22133cc2bbc92f737",
+ "iv": "3VCS2Df6HEGoPMY7",
+ "tamano": 9301941,
+ "notas": "- Traducir tiene ahora tres modos, cada uno con su precio: Precisión, que rehace la boca con más fidelidad; Rápido, que también la rehace y cuesta casi la mitad; y Solo voz, que traduce la voz y deja la imagen como está, al precio más bajo.\n- Cada video traducido muestra con un ícono cómo se hizo: labios para Precisión, un rayo para Rápido y una onda de audio para Solo voz.",
+ "fecha": "2026-09-26T18:44:33+00:00",
  "formato": 1,
- "firma": "0D7U0ZGYEAus3Cai4I+W5uiu9TRkHDSN16/WSWuSH7G4aG4kV13mm0drP++n5MfUvsZzPB7CXcygkKoGxHnQBg=="
+ "firma": "tTYGccMWkH5xCYdiqjRgEM8ir5sI/jlHSWEc5GF36xuOKk7J7/ZOYwqqlh233ArIE9pFCjwUqkh1V6GKHKiuCw=="
 }
