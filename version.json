@@ -1,11 +1,11 @@
 {
- "version": "3.5.0",
- "url": "https://github.com/cicheroia/adcode-actualizaciones/releases/download/v3.5.0/sistema-adcode-3.5.0.bin",
- "sha256": "b7e16462b1368e9552938b2ddbb933763cdf6eb958e06a72fea0f957be114198",
- "iv": "X4/ko3SsN6Ac/iFn",
- "tamano": 10657861,
- "notas": "- Automático, en Nuevo proyecto: Claude arma solo un video hasta el storyboard con el animatic y el link para aprobar. Eliges el estilo (Película, Avatar o uno guardado) y la duración, y ves lo que cuesta la preproducción, el video y el total. El video se genera recién cuando lo apruebas.\n- También se puede programar: eliges los días y los horarios, ves la semana armada con cada video que va a salir y cuánto cuesta por mes. Los proyectos te quedan listos en la marca, con su link en la campanita.\n- Los modelos de cada marca: en la pestaña Entregas, marca con la estrella los videos que te gustaron. Claude los lee antes de escribir cada guion de esa marca.\n- Antes de gastar en un video, el sistema revisa las fotos de referencia y te avisa si algo está cortado, si una pantalla no muestra lo que tiene que mostrar o si a un lugar le faltan vistas.\n- Una película nueva arranca con Referencia, Guion, Personajes, Storyboard, Producción, Editor y Entrega. Planos se suma desde el \"+\" cuando lo necesites.\n- Producción muestra, antes de gastar, todo lo que va a recibir el modelo: el elenco, las locaciones, los objetos, las voces y el pedido.\n- Si pides \"hazlo solo\" o \"sorpréndeme\" con un tope de créditos, Claude hace el video entero sin frenar: guion, voces, video, corte, subtítulos y música.\n- Cuando el video cambia una voz o una palabra, se arregla con la locución original, sin volver a generar.\n- Si tienes Topaz Video AI en la computadora, el sistema lo usa para subir la calidad del video final, sin costo.",
- "fecha": "2026-09-28T10:36:16+00:00",
+ "version": "3.6.0",
+ "url": "https://github.com/cicheroia/adcode-actualizaciones/releases/download/v3.6.0/sistema-adcode-3.6.0.bin",
+ "sha256": "2c0028e87e9069a3aef089478ddf85a22cb5460076ae1f5596fe62fe2f7552fb",
+ "iv": "d+YlKuLu1EkQmx5g",
+ "tamano": 11377064,
+ "notas": "- Lo que programas en Automático ahora te llega al celular: a la hora de cada turno, el sistema abre un chat nuevo de Claude con Control remoto, con el nombre de la marca y la hora. Lo sigues desde la app de Claude en el teléfono y le contestas ahí, por ejemplo para que genere el video.\n- Eliges cuántos videos arma cada turno, de 1 a 5. Cada uno sale con su idea, su proyecto y su link, y la semana te muestra cuántos van a salir y cuánto cuestan.\n- Para cambiar una programación, la tocas en la lista y se carga en el cartel.",
+ "fecha": "2026-09-28T14:00:13+00:00",
  "formato": 1,
- "firma": "pTDIOgSy5f84A5s/1hfbGfO5j80ObN+eGrlNVnHqAikQO7+kYxVtAI4fuq6EsZOqZSuVZrBJDEwRV3VLdxFeAw=="
+ "firma": "B8jCso2NPf0A7bNdZfBGhAOVqH4P8etrTjtqXcgceE7AMresBPQFsKosh/QHui+sUwXxrsBsyIRNIfbAa6MGDg=="
 }
