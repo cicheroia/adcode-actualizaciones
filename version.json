@@ -1,11 +1,11 @@
 {
- "version": "3.4.0",
- "url": "https://github.com/cicheroia/adcode-actualizaciones/releases/download/v3.4.0/sistema-adcode-3.4.0.bin",
- "sha256": "cb1f4d83fe6704b01df40a2a0255ecba0543b896a72eb668df9f851f1e836cfc",
- "iv": "TZ8xTKZiL6eVdw2i",
- "tamano": 9765010,
- "notas": "- Nuevo proyecto suma Traducción: un video pasado a otros idiomas, con Traducir, Editor y Entrega. Si escribes o dictas \"traducir\" o \"doblar\", el proyecto nace así.\n- Exportar e Importar una marca: clic derecho sobre la marca, Exportar, y en la otra computadora sueltas el archivo sobre el inicio. Viaja todo lo de la marca y, si quieres, también sus proyectos. Tus claves nunca viajan.\n- Cuando un cliente pide cambios, el botón Hacer cambios le pasa el pedido al chat para que lo haga.\n- Cada idea tiene Desarrollar, que se la pasa al chat cuando quieras trabajarla.\n- Los módulos vacíos ya no tienen botones de pedidos. Si falta un paso antes, te dice cuál y te lleva ahí con un botón. Si no, muestran dónde subir tus archivos.\n- Cuando generas una imagen o un video, su módulo aparece solo en el proyecto.\n- El storyboard sale como un boceto rápido, para mirar la historia sin frenarte en detalles.\n- Materiales abre enseguida aunque la biblioteca sea grande, y la pantalla muestra sola lo que hace Claude, sin recargar.\n- En Referencias, el reel que estás mirando ya no se cierra ni se traba cuando termina de estudiarse otro. Abrir original abre la red en tu navegador.\n- En Ajustes, Soporte, Reporte de fallos arma un archivo con los errores de los últimos días, sin claves ni nombres, para mandárselo a quien te da soporte.",
- "fecha": "2026-09-26T23:20:16+00:00",
+ "version": "3.5.0",
+ "url": "https://github.com/cicheroia/adcode-actualizaciones/releases/download/v3.5.0/sistema-adcode-3.5.0.bin",
+ "sha256": "b7e16462b1368e9552938b2ddbb933763cdf6eb958e06a72fea0f957be114198",
+ "iv": "X4/ko3SsN6Ac/iFn",
+ "tamano": 10657861,
+ "notas": "- Automático, en Nuevo proyecto: Claude arma solo un video hasta el storyboard con el animatic y el link para aprobar. Eliges el estilo (Película, Avatar o uno guardado) y la duración, y ves lo que cuesta la preproducción, el video y el total. El video se genera recién cuando lo apruebas.\n- También se puede programar: eliges los días y los horarios, ves la semana armada con cada video que va a salir y cuánto cuesta por mes. Los proyectos te quedan listos en la marca, con su link en la campanita.\n- Los modelos de cada marca: en la pestaña Entregas, marca con la estrella los videos que te gustaron. Claude los lee antes de escribir cada guion de esa marca.\n- Antes de gastar en un video, el sistema revisa las fotos de referencia y te avisa si algo está cortado, si una pantalla no muestra lo que tiene que mostrar o si a un lugar le faltan vistas.\n- Una película nueva arranca con Referencia, Guion, Personajes, Storyboard, Producción, Editor y Entrega. Planos se suma desde el \"+\" cuando lo necesites.\n- Producción muestra, antes de gastar, todo lo que va a recibir el modelo: el elenco, las locaciones, los objetos, las voces y el pedido.\n- Si pides \"hazlo solo\" o \"sorpréndeme\" con un tope de créditos, Claude hace el video entero sin frenar: guion, voces, video, corte, subtítulos y música.\n- Cuando el video cambia una voz o una palabra, se arregla con la locución original, sin volver a generar.\n- Si tienes Topaz Video AI en la computadora, el sistema lo usa para subir la calidad del video final, sin costo.",
+ "fecha": "2026-09-28T10:36:16+00:00",
  "formato": 1,
- "firma": "sQ+Y2oe/GBeIaBAHFDsybxs2z9udMWNhy41VQuwWaDmTTke0aTU48u/VYeLr9UsuINvTNkUgiyGf68OmGjlCDA=="
+ "firma": "pTDIOgSy5f84A5s/1hfbGfO5j80ObN+eGrlNVnHqAikQO7+kYxVtAI4fuq6EsZOqZSuVZrBJDEwRV3VLdxFeAw=="
 }
